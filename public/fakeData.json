@@ -1,0 +1,74 @@
+[
+  {
+    "cover": "https://raw.githubusercontent.com/mehhed/assignment-img/main/Rectangle%202-2.png",
+    "title": "Introduction to C Programming",
+    "details": "Introduction to C Programming: It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+    "price": 15000,
+    "credit": 1,
+    "unique_id": "product1"
+  },
+  {
+    "cover": "https://raw.githubusercontent.com/mehhed/assignment-img/main/Rectangle%202-3.png",
+    "title": "Introduction to Algorithms",
+    "details": "Introduction to Algorithms: It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+    "price": 25000,
+    "credit": 2,
+    "unique_id": "product2"
+  },
+  {
+    "cover": "https://raw.githubusercontent.com/mehhed/assignment-img/main/Rectangle%202-4.png",
+    "title": "Introduction to C++ for DSA",
+    "details": "Introduction to C++ for DSA: It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+    "price": 10000,
+    "credit": 10,
+    "unique_id": "product3"
+  },
+  {
+    "cover": "https://raw.githubusercontent.com/mehhed/assignment-img/main/Rectangle%203.png",
+    "title": "Basic Data Structures",
+    "details": "Basic Data Structures: It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+    "price": 35000,
+    "credit": 5,
+    "unique_id": "product4"
+  },
+  {
+    "cover": "https://raw.githubusercontent.com/mehhed/assignment-img/main/Rectangle%202.png",
+    "title": "Introduction to OOP Python",
+    "details": "Introduction to OOP Python: It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+    "price": 19000,
+    "credit": 5,
+    "unique_id": "product5"
+  },
+  {
+    "cover": "https://raw.githubusercontent.com/mehhed/assignment-img/main/Rectangle%202-5.png",
+    "title": "Software Engineering",
+    "details": "Software Engineering: It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+    "price": 10000,
+    "credit": 2,
+    "unique_id": "product6"
+  },
+  {
+    "cover": "https://raw.githubusercontent.com/mehhed/assignment-img/main/Rectangle%203-1.png",
+    "title": "AWS, Cloud Computing",
+    "details": "AWS, Cloud Computing: It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+    "price": 35000,
+    "credit": 5,
+    "unique_id": "product7"
+  },
+  {
+    "cover": "https://raw.githubusercontent.com/mehhed/assignment-img/main/Rectangle%202-1.png",
+    "title": "Database (MySQL)",
+    "details": "Database (MySQL): It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+    "price": 19000,
+    "credit": 5,
+    "unique_id": "product8"
+  },
+  {
+    "cover": "https://raw.githubusercontent.com/mehhed/assignment-img/main/Rectangle%202-6.png",
+    "title": "Problem-Solving Part",
+    "details": "Problem-Solving Part: It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+    "price": 10000,
+    "credit": 2,
+    "unique_id": "product9"
+  }
+]
